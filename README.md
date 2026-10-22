@@ -50,11 +50,17 @@ The dashboard transforms raw Netflix data into meaningful visualizations to help
 
 1. Clone or download this repository.
 2. Install Power BI Desktop.
-3. Open the
-
- file in Power BI Desktop.
+3. Open the file in Power BI Desktop.
 4. Interact with the charts, filters, and slicers to explore the dashboard.
 
 ## 📌 Project Outcome
 
 Developed an interactive dashboard to explore Netflix content trends and summarize information through clear, visual insights. This project demonstrates practical skills in data analysis, dashboard design, and business intelligence.
+
+## Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/8bc3249a-2a18-405f-9ff1-ac204b786d57" />
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/35a57c53-91e2-4543-83c4-fc1f0b806fb0" />
+<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/01638720-ce38-4327-88c7-d9f11ccbf3a8" />
+
+
